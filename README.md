@@ -78,3 +78,6 @@ external review, citation, and evaluation.
 Future revisions, if any, will follow explicit versioning and
 public notice.
 
+⚠️ All specifications in this repository MUST comply with
+`GOVERNANCE-ASSERTIONS.md`.
+
