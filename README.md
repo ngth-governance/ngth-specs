@@ -64,3 +64,17 @@ If any conflict arises, the charter prevails over specifications.
 ## License
 
 This repository is licensed under the **Apache License 2.0**.
+
+---
+
+## Specification Status
+
+The specifications in this repository are currently in a
+**stabilization and review phase**.
+
+No functional changes are planned while the documents are subject to
+external review, citation, and evaluation.
+
+Future revisions, if any, will follow explicit versioning and
+public notice.
+
